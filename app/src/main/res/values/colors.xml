@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="test0">#FFAA00</color>
+    <color name="test1">#AAFF00</color>
+
+    <color name="color_start_background">#fafafa</color>
+    <color name="color_end_background">#c1cac9</color>
+    <color name="color_time_line">#CCCCCC</color>
+
+    <color name="color_half_circle0">#d85052</color>
+    <color name="color_start_circle0">#fd5264</color>
+    <color name="color_end_circle0">#ff787c</color>
+
+    <color name="color_half_circle1">#e7b94c</color>
+    <color name="color_start_circle1">#ffc84a</color>
+    <color name="color_end_circle1">#fee16c</color>
+
+    <color name="color_half_circle2">#83b497</color>
+    <color name="color_start_circle2">#82c896</color>
+    <color name="color_end_circle2">#99ddae</color>
+
+    <color name="color_half_circle3">#6da1c6</color>
+    <color name="color_start_circle3">#78b7e0</color>
+    <color name="color_end_circle3">#b3ecff</color>
+
+    <color name="color_half_circle4">#8980b7</color>
+    <color name="color_start_circle4">#9991ca</color>
+    <color name="color_end_circle4">#b3a6dc</color>
+
+    <color name="color_half_circle5">#d85052</color>
+    <color name="color_start_circle5">#fd5264</color>
+    <color name="color_end_circle5">#ff787c</color>
+
+    <color name="color_half_circle6">#e7b94c</color>
+    <color name="color_start_circle6">#ffc84a</color>
+    <color name="color_end_circle6">#fee16c</color>
+
+    <color name="color_half_circle7">#83b497</color>
+    <color name="color_start_circle7">#82c896</color>
+    <color name="color_end_circle7">#99ddae</color>
+
+    <color name="color_half_circle8">#6da1c6</color>
+    <color name="color_start_circle8">#78b7e0</color>
+    <color name="color_end_circle8">#b3ecff</color>
+
+    <color name="color_half_circle9">#8980b7</color>
+    <color name="color_start_circle9">#9991ca</color>
+    <color name="color_end_circle9">#b3a6dc</color>
+</resources>

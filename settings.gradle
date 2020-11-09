@@ -1,0 +1,3 @@
+include ':TimeLineLibrary'
+include ':app'
+rootProject.name = "TimeLine"
